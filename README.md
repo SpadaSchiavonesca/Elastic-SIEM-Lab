@@ -50,4 +50,7 @@ Step 7: To verify the agent installation, run the following command: `sudo syste
 
 Step 8: In this exercise, I used the Nmap tool (Network Mapper), a free and open-source utility for network exploration, management, and security auditing. Nmap is designed to discover hosts and services on a computer network, effectively creating a network 'map.' It can scan hosts for open ports, identify the operating system and software running on the target system, and collect additional network information. Running Nmap scans generates several security events, including the detection of open ports and the identification of services on those ports. Perform a few more Nmap scans using commands like `nmap -sS <localhost>`, `nmap -sT <localhost>`, and `nmap -p- <localhost>`etc.
 
+<a href="https://ibb.co/hy98Rvk"><img src="https://i.ibb.co/7XCyJFH/Screenshot-2024-06-19-172403.png" alt="Screenshot-2024-06-19-172403" border="0"></a>
+
+<a href="https://ibb.co/hy98Rvk"><img src="https://i.ibb.co/7XCyJFH/Screenshot-2024-06-19-172403.png" alt="Screenshot-2024-06-19-172403" border="0"></a>
 
