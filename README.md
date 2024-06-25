@@ -38,7 +38,7 @@ Step 4: Ensure 'Linux' is selected on the page, then copy the provided command t
 
 Step 5: Paste the copied command into the terminal of your Kali VM. Run the command.
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/8BBywwS/Screenshot-25-6-2024-183014-medium-com.jpg" alt="Screenshot-25-6-2024-183014-medium-com" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/cJRhcCj/screenshot0.png" alt="screenshot0" border="0"></a>
 
 Step 6: Once the agent is installed, which can take a few minutes, you will see a message stating 'Elastic Agent has been successfully installed.' The agent will automatically start collecting and forwarding logs to your Elastic SIEM instance, though it might take a few minutes for the logs to appear in the SIEM.
 
