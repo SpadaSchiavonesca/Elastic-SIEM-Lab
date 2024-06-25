@@ -20,10 +20,5 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+Step 1: Log in to your Elastic SIEM instance. Navigate to the Integrations page by clicking on the Kibana main menu at the top left and selecting 'Integrations' from the bottom of the list.
+<a href="https://ibb.co/D94bqQz"><img src="https://i.ibb.co/ZBdJZxG/screenshot.png" alt="screenshot" border="0"></a>
