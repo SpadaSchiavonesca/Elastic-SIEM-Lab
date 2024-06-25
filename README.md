@@ -28,4 +28,8 @@ Step 2: Search for 'Elastic Defend' and click on it to open its integration page
 
 <a href="https://ibb.co/yFDZgM4"><img src="https://i.ibb.co/zV1BPL6/screenshot2.png" alt="screenshot2" border="0"></a>
 
-Step 3:
+Step 3: Click on 'Install Elastic Defend' and follow the instructions on the integration page to install the agent on your Kali VM.
+
+<a href="https://ibb.co/MMf6syb"><img src="https://i.ibb.co/f49v2Vb/screenshot3.png" alt="screenshot3" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload pic</a><br />
+
+Step 4:
