@@ -23,3 +23,9 @@ The Detection Lab project aimed to establish a controlled environment for simula
 Step 1: Log in to your Elastic SIEM instance. Navigate to the Integrations page by clicking on the Kibana main menu at the top left and selecting 'Integrations' from the bottom of the list.
 
 <a href="https://ibb.co/D94bqQz"><img src="https://i.ibb.co/ZBdJZxG/screenshot.png" alt="screenshot" border="0"></a>
+
+Step 2: Search for 'Elastic Defend' and click on it to open its integration page.
+
+<a href="https://ibb.co/yFDZgM4"><img src="https://i.ibb.co/zV1BPL6/screenshot2.png" alt="screenshot2" border="0"></a>
+
+Step 3:
