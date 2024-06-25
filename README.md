@@ -21,4 +21,5 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 ## Steps
 Step 1: Log in to your Elastic SIEM instance. Navigate to the Integrations page by clicking on the Kibana main menu at the top left and selecting 'Integrations' from the bottom of the list.
+
 <a href="https://ibb.co/D94bqQz"><img src="https://i.ibb.co/ZBdJZxG/screenshot.png" alt="screenshot" border="0"></a>
