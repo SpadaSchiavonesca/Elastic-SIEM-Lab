@@ -62,3 +62,7 @@ Step 10: In the search bar, enter a search query to filter the logs. For example
 
 <a href="https://ibb.co/26pKhzq"><img src="https://i.ibb.co/z5tfx3s/screenshot10.png" alt="screenshot10" border="0"></a>
 
+<a href="https://ibb.co/Lz4jm3X"><img src="https://i.ibb.co/kgYbjts/Screenshot-19-6-2024-19448-d1c72ef5ac404316a494844cbdbdde8b-us-central1-gcp-cloud-es-io.jpg" alt="Screenshot-19-6-2024-19448-d1c72ef5ac404316a494844cbdbdde8b-us-central1-gcp-cloud-es-io" border="0"></a>
+
+Step 11:
+
