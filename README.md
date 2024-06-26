@@ -58,3 +58,7 @@ Step 9: With the data from the Kali VM now forwarded to the SIEM, we can begin q
 
 <a href="https://ibb.co/MNWc8rF"><img src="https://i.ibb.co/4N98szh/screenshot9.png" alt="screenshot9" border="0"></a>
 
+Step 10: In the search bar, enter a search query to filter the logs. For example, to find all logs related to Nmap scans, use the query: `event.action: "nmap_scan" OR process.args: "sudo"`. Click the "Search" button to execute the query. The search results will appear in the table below, and you can click on the three dots next to each event for more details.
+
+<a href="https://ibb.co/26pKhzq"><img src="https://i.ibb.co/z5tfx3s/screenshot10.png" alt="screenshot10" border="0"></a>
+
