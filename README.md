@@ -117,6 +117,12 @@ After setting the custom query to match events with the action "nmap_scan," clic
 
 <a href="https://ibb.co/VQ0Zg7X"><img src="https://i.ibb.co/3M5qpDt/screenshot15.png" alt="screenshot15" border="0"></a>
 
+Step 16:
+
+In the "Actions" section, choose the action you want triggered when the rule detects an event. Options include sending an email notification, creating a Slack message, or triggering a custom webhook. Finally, click the "Create and enable rule" button to create the alert with your selected actions.
+
+
+<a href="https://ibb.co/Zdtgg6k"><img src="https://i.ibb.co/tBk22MW/screenshot16.png" alt="screenshot16" border="0"></a>
 
 
 
