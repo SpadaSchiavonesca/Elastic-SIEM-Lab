@@ -54,3 +54,7 @@ Step 8: In this exercise, I used the Nmap tool (Network Mapper), a free and open
 
 <a href="https://ibb.co/VqgTL6y"><img src="https://i.ibb.co/JsvHcZL/Screenshot-2024-06-19-170909.png" alt="Screenshot-2024-06-19-170909" border="0"></a>
 
+Step 9: With the data from the Kali VM now forwarded to the SIEM, we can begin querying and analyzing the logs. In your Elastic Deployment, click the menu icon at the top left (three horizontal lines), then select the 'Logs' tab under 'Observability' to view the logs from the Kali VM.
+
+<a href="https://ibb.co/MNWc8rF"><img src="https://i.ibb.co/4N98szh/screenshot9.png" alt="screenshot9" border="0"></a>
+
