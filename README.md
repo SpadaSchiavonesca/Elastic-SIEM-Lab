@@ -52,5 +52,5 @@ Step 8: In this exercise, I used the Nmap tool (Network Mapper), a free and open
 
 <a href="https://ibb.co/hy98Rvk"><img src="https://i.ibb.co/7XCyJFH/Screenshot-2024-06-19-172403.png" alt="Screenshot-2024-06-19-172403" border="0"></a>
 
-<a href="https://ibb.co/hy98Rvk"><img src="https://i.ibb.co/7XCyJFH/Screenshot-2024-06-19-172403.png" alt="Screenshot-2024-06-19-172403" border="0"></a>
+<a href="https://ibb.co/VqgTL6y"><img src="https://i.ibb.co/JsvHcZL/Screenshot-2024-06-19-170909.png" alt="Screenshot-2024-06-19-170909" border="0"></a>
 
