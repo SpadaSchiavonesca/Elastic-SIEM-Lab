@@ -124,6 +124,18 @@ In the "Actions" section, choose the action you want triggered when the rule det
 
 <a href="https://ibb.co/Zdtgg6k"><img src="https://i.ibb.co/tBk22MW/screenshot16.png" alt="screenshot16" border="0"></a>
 
+Step 17:
+Once the alert is created, it will monitor your logs for Nmap scan events. When an Nmap scan event is detected, the alert will trigger and execute the selected action. You can manage and view all your alerts in the "Alerts" section under "Security."
+
+<a href="https://ibb.co/YNSC5ps"><img src="https://i.ibb.co/yNC9zWj/Screenshot-19-6-2024-193037-d1c72ef5ac404316a494844cbdbdde8b-us-central1-gcp-cloud-es-io.jpg" alt="Screenshot-19-6-2024-193037-d1c72ef5ac404316a494844cbdbdde8b-us-central1-gcp-cloud-es-io" border="0"></a>
+
+<a href="https://ibb.co/QnVdsmy"><img src="https://i.ibb.co/K7gwCyT/Screenshot-19-6-2024-195832-d1c72ef5ac404316a494844cbdbdde8b-us-central1-gcp-cloud-es-io.jpg" alt="Screenshot-19-6-2024-195832-d1c72ef5ac404316a494844cbdbdde8b-us-central1-gcp-cloud-es-io" border="0"></a>
+
+<a href="https://ibb.co/XzhKtVz"><img src="https://i.ibb.co/7GwZKbG/Screenshot-19-6-2024-20154-d1c72ef5ac404316a494844cbdbdde8b-us-central1-gcp-cloud-es-io.jpg" alt="Screenshot-19-6-2024-20154-d1c72ef5ac404316a494844cbdbdde8b-us-central1-gcp-cloud-es-io" border="0"></a>
+
+<a href="https://ibb.co/2MGpBc3"><img src="https://i.ibb.co/1XF4xRG/Screenshot-25-6-2024-204531-d1c72ef5ac404316a494844cbdbdde8b-us-central1-gcp-cloud-es-io.jpg" alt="Screenshot-25-6-2024-204531-d1c72ef5ac404316a494844cbdbdde8b-us-central1-gcp-cloud-es-io" border="0"></a>
+
+
 
 
 
