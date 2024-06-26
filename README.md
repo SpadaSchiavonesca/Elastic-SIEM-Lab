@@ -109,7 +109,11 @@ event.action: "nmap_scan"
 
 This query will filter events where the action is "nmap_scan". Adjust the query as needed to match specific criteria for detecting Nmap scans or other security events.
 
-<a href="https://ibb.co/1Ry53hh"><img src="https://i.ibb.co/qmqfzXX/Screenshot-25-6-2024-194223-medium-com.jpg" alt="Screenshot-25-6-2024-194223-medium-com" border="0"></a>
+<a href="https://ibb.co/McfHtBp"><img src="https://i.ibb.co/T41G7WR/Screenshot-19-6-2024-19376-d1c72ef5ac404316a494844cbdbdde8b-us-central1-gcp-cloud-es-io.jpg" alt="Screenshot-19-6-2024-19376-d1c72ef5ac404316a494844cbdbdde8b-us-central1-gcp-cloud-es-io" border="0"></a>
+
+
+
+
 
 
 
