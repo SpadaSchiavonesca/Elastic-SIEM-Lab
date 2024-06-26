@@ -1,5 +1,5 @@
 # Elastic-SIEM-Lab
-# PROJECTNAME
+# Home SIEM Lab
 
 ## Objective
 
