@@ -97,6 +97,22 @@ Click on "Manage rules" located at the top right corner of the page.
 
 Step 14:
 
+To create a new rule for detecting Nmap scan events:
+
+1. Click on the "Create new rule" button at the top right.
+2. Under the "Define rule" section, select the "Custom query" option from the dropdown menu.
+3. In the "Custom query" field, set the conditions using the following query to detect Nmap scan events:
+
+```
+event.action: "nmap_scan"
+```
+
+This query will filter events where the action is "nmap_scan". Adjust the query as needed to match specific criteria for detecting Nmap scans or other security events.
+
+<a href="https://ibb.co/1Ry53hh"><img src="https://i.ibb.co/qmqfzXX/Screenshot-25-6-2024-194223-medium-com.jpg" alt="Screenshot-25-6-2024-194223-medium-com" border="0"></a>
+
+
+
 
 
 
