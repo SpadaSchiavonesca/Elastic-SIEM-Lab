@@ -120,3 +120,5 @@ This query will filter events where the action is "nmap_scan". Adjust the query 
 
 
 
+
+
