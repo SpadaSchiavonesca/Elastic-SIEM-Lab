@@ -64,5 +64,39 @@ Step 10: In the search bar, enter a search query to filter the logs. For example
 
 <a href="https://ibb.co/Lz4jm3X"><img src="https://i.ibb.co/kgYbjts/Screenshot-19-6-2024-19448-d1c72ef5ac404316a494844cbdbdde8b-us-central1-gcp-cloud-es-io.jpg" alt="Screenshot-19-6-2024-19448-d1c72ef5ac404316a494844cbdbdde8b-us-central1-gcp-cloud-es-io" border="0"></a>
 
-Step 11:
+Step 11: To create a dashboard in the Elastic web portal:
+
+1. Navigate to the Elastic web portal at https://cloud.elastic.co/.
+2. Click on the menu icon at the top-left.
+3. Under "Analytics," click on "Dashboards.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/3Wb4Nx5/screenshot11.png" alt="screenshot11" border="0"></a>
+
+Step 12:
+
+4. Click the “Create dashboard” button at the top-right to start a new dashboard.
+
+5. Press “Create Visualization” to add a new visualization to the dashboard.
+
+6. Choose between “Area” or “Line” as your visualization type to create a chart displaying event counts over time.
+
+7. In the visualization editor under the "Metrics" section on the right:
+
+Select "Count" as the vertical field type.
+Choose "Timestamp" for the horizontal field.
+This setup will display the count of events over time in your visualization.
+Click on the "Save" button to save the visualization. Complete any remaining settings or configurations as needed to finalize your dashboard setup.
+
+Step 13: To access the Alerts section in Elastic Security:
+
+Click on the menu icon at the top-left.
+Under "Security," click on "Alerts."
+Click on "Manage rules" located at the top right corner of the page.
+
+<a href="https://ibb.co/z7yZXbY"><img src="https://i.ibb.co/MGY7cp4/screenshot13.png" alt="screenshot13" border="0"></a>
+
+Step 14:
+
+
+
 
