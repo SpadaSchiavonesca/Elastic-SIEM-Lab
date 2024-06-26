@@ -111,6 +111,14 @@ This query will filter events where the action is "nmap_scan". Adjust the query 
 
 <a href="https://ibb.co/McfHtBp"><img src="https://i.ibb.co/T41G7WR/Screenshot-19-6-2024-19376-d1c72ef5ac404316a494844cbdbdde8b-us-central1-gcp-cloud-es-io.jpg" alt="Screenshot-19-6-2024-19376-d1c72ef5ac404316a494844cbdbdde8b-us-central1-gcp-cloud-es-io" border="0"></a>
 
+Step 15: 
+
+After setting the custom query to match events with the action "nmap_scan," click "Continue." In the "About rule" section, give your rule a name (e.g., Nmap Scan Detection) and a description. Set the severity level for the alert to prioritize alerts based on their importance. Keep the default settings under "Schedule rule" unchanged, and then proceed by clicking "Continue."
+
+<a href="https://ibb.co/VQ0Zg7X"><img src="https://i.ibb.co/3M5qpDt/screenshot15.png" alt="screenshot15" border="0"></a>
+
+
+
 
 
 
